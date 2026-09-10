@@ -1,0 +1,10 @@
+{
+  "name": "Fasal Detection",
+  "description": "Protect Your Crops. Improve Your Harvest. AI-powered crop health and disease detection, spoilage diagnosis, and treatment recommendation platform for farmers.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
